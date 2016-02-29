@@ -2,6 +2,8 @@ package paquete1;
 
 import javax.swing.JOptionPane;
 
+//SOY ALVARO
+
 public class Clase1 {
 	
 	public void main (String [] args) {
